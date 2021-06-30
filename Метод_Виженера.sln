@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Метод_Виженера", "Метод_Виженера.csproj", "{70A616BB-2A69-4396-AD3D-C26F68800D04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70A616BB-2A69-4396-AD3D-C26F68800D04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70A616BB-2A69-4396-AD3D-C26F68800D04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70A616BB-2A69-4396-AD3D-C26F68800D04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70A616BB-2A69-4396-AD3D-C26F68800D04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0846120F-1446-4F3B-8115-D087190E5B72}
+	EndGlobalSection
+EndGlobal
